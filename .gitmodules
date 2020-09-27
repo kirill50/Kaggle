@@ -1,0 +1,3 @@
+[submodule "Book recomendation service/gb_flask_hw_api"]
+	path = Book recomendation service/gb_flask_hw_api
+	url = ../../fimochka-sudo/gb_flask_hw_api.git
